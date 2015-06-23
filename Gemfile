@@ -45,5 +45,8 @@ group :development, :test do
   gem 'spring'
   gem 'better_errors'
   gem 'pry-rails'
+  #gem for login
+  #gem 'bcrypt-ruby', '~> 3.0.0'
+  gem 'bcrypt-ruby', '3.1.2'
 end
 
